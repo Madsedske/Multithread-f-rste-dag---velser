@@ -24,7 +24,7 @@ namespace Multithread_første_dag___Øvelse_4
             reader.SetApartmentState(ApartmentState.STA);
             reader.Start();
 
-        }
+        } 
 
         static void Printer()
         {
